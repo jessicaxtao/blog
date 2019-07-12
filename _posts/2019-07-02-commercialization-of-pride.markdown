@@ -41,13 +41,13 @@ that we protest when people sell photographs/videos of tragic events etc. we sho
 big corporations, particularly the ones who aren't true allies, make money off of other people's difficulty.
 
 One last thing: I also believe that Taylor Swift's song is tone-deaf at best. And the mainstream nature of
-pride makes me feel rather unrepresented. 
+pride makes me feel rather unrepresented.
 
 Here's some links that are good:
-- [Vox] (https://www.vox.com/2018/6/25/17476850/pride-month-lgbtq-corporate-explained)
-- [BBC] (http://www.bbc.com/culture/story/20190625-stonewall-riots-the-beacon-for-people-around-the-world)
-- [Slate] (https://slate.com/human-interest/2019/06/stonewall-riots-controversy-primary-sources.html)
-- [Cammie Scott's YouTube Video] (https://www.youtube.com/watch?v=Cy7R8c_Tymg)
+- [Vox](<https://www.vox.com/2018/6/25/17476850/pride-month-lgbtq-corporate-explained>)
+- [BBC](<http://www.bbc.com/culture/story/20190625-stonewall-riots-the-beacon-for-people-around-the-world>)
+- [Slate](<https://slate.com/human-interest/2019/06/stonewall-riots-controversy-primary-sources.html>)
+- [Cammie Scott's YouTube Video](<https://www.youtube.com/watch?v=Cy7R8c_Tymg>)
 
 I know I'm a little late with this post, sorry about that. I also didn't fully edit or proofread
 and this is definitely very rushed writing. In the future, I will also be sure to add sources.
