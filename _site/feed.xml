@@ -7,44 +7,377 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Critical Thinking</title>
-        <description>&lt;p&gt;This piece is definitely going to be a difficult one to write. I’m a big fan of
-this philosophy/literary blog called “Brain Pickings”. In this blog, the author
-has already touched on critical thinking far better than I could ever hope to.
-She speaks about Descarte’s 12 Rules of Critical Thinking not to mention the views
-of Buddha, Galileo, Carl Sagan and so many others. Instead, I’m going to explore
-the idea of critical thinking about how it relates to the way intelligent people
-can fall for false news.&lt;/p&gt;
+        <title>Update on Personal Project</title>
+        <description>&lt;p&gt;For the past few months, I have been (slowly) working on a side project to produce my own set of playing cards. I started collecting playing cards a while back and as someone interested in design and art, I thought that this would be a fun project. It’s come to a bit of a standstill recently because of just how busy life has gotten but I would really like to get it done before Christmas time so here’s a progress update.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/10spadesblack.png&quot; width=&quot;40%&quot; height=&quot;auto&quot; hspace=&quot;5%&quot; /&gt;
+&lt;img src=&quot;../../../../assets/img/10spadeswhite.png&quot; width=&quot;40%&quot; height=&quot;auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have the 4 suits completed but haven’t yet decided what font to use for the numbers or which color scheme
+I’m going to be sticking with. I’m still in the sketching phase of the back design and face cards but am working digitally on the Aces.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 Jul 2019 01:21:04 -0400</pubDate>
-        <link>http://localhost:4000//philosophy/2019/07/02/critical-thinking.html</link>
-        <guid isPermaLink="true">http://localhost:4000//philosophy/2019/07/02/critical-thinking.html</guid>
+        <pubDate>Sun, 10 Nov 2019 07:07:00 -0500</pubDate>
+        <link>http://localhost:4000//projects/2019/11/10/Update-Personal-Project.html</link>
+        <guid isPermaLink="true">http://localhost:4000//projects/2019/11/10/Update-Personal-Project.html</guid>
       </item>
     
       <item>
-        <title>The Commercialization of Pride Month</title>
-        <description>&lt;p&gt;Okay so I don’t yet have this post written but I’m going to talk about why I don’t
-personally go to the pride parade and how necessary for companies and public figures
-pride has become. There’s a number of memes about this (mostly referring to how as soon
-as July hits it’s back to what essentially boils down to straight pride and forgetting
-the reason pride is necessary anyway). This year, being the 50th anniversary of the
-Stonewall Riots, there’s been a particularly big push. A number of articles was written
-about how Taylor Swift’s song, which compares the peril that many members of the LGBT+
-community face to her own struggles of being famous, as tone-deaf at best.&lt;/p&gt;
+        <title>Rewards Apps</title>
+        <description>&lt;h2 id=&quot;microsoft-rewards&quot;&gt;Microsoft Rewards&lt;/h2&gt;
+
+&lt;p&gt;Microsoft Rewards gives you points for searching on Bing. Once you reach level 2 (there are only two levels), you can get 150 points for searching on your computer and 100 on mobile with an additional 20 points for using Microsoft Edge. For each search, you receive 5 points.&lt;/p&gt;
+
+&lt;p&gt;There are additional ways to earn points including a daily quiz, poll, and search which combined will give you 50 points per day. If you maintain a streak, you will get additional points (45 points after completing a 3-day streak, and if you go for 4 more days after that you get 75 points).&lt;/p&gt;
+
+&lt;p&gt;Rewards include gift cards to establishments like Starbucks, Microsoft’s own store, AMC Theatres, Target, Walmart, the NFL shop and some other stores. $5 gift cards are 6500 points.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;Not a ton of maintenance (~50 searches a day). Any search that isn’t a repeat counts so most days I’ll just search 1, 2, 3,…etc until I get my points or type in gibberish.
+Relatively quick rewards - ~20 days of searching would get you a $5 gift card so if you really maintained it you could get $90 a year.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons&quot;&gt;Cons:&lt;/h3&gt;
+&lt;p&gt;The gift card selection is lacking. There are no Amazon gift cards and no way to cash out. But if you frequent Starbucks or go to the movies, which would be most people, there are still good options for you.&lt;/p&gt;
+
+&lt;p&gt;Affiliate Link: https://www.microsoft.com/en-us/rewards/raf?rh=F3F3FB73&lt;/p&gt;
+
+&lt;h2 id=&quot;sweatcoin&quot;&gt;Sweatcoin&lt;/h2&gt;
+
+&lt;p&gt;Sweatcoin is an app that rewards you for walking by tracking your outdoor steps (so walking around at home/on a treadmill etc. will not count). By default, you can only earn 5 sweatcoin a day but you are able to upgrade by using the sweatcoins you have earned. To upgrade to earning 10 sweatcoin a day, you would need to pay 4.75 sweatcoins per month.&lt;/p&gt;
+
+&lt;p&gt;It takes about 1200 outdoor steps to earn one sweatcoin. For context, people average 2000 steps per mile. If you walked 5 miles a day/10,000 steps a day, you would earn about 8.3 sweatcoins a day. Since that requires the 10 sweatcoin level, each month you would earn 240-250 sweatcoins.&lt;/p&gt;
+
+&lt;p&gt;There is a rotating list of rewards. Right now this includes workout tops from YogaClub (900 sweatcoins), a trial set of razors (10 sweatcoins), one month of automatic notes from Otter (6 sweatcoins), weight loss challenge ebook from IdealShape (100 sweatcoins).&lt;/p&gt;
+
+&lt;p&gt;The marathon rewards are quite a bit better but are costly - iPhone XS or $1,000 cash for 20,000 sweatcoins.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-1&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;Relatively low maintenance. You leave the app on in the background and it will automatically track so you don’t have to actively do anything. It’s not a huge battery drain and I don’t really notice it there.
+If you are willing to stick with it, the big rewards are really good. Even if it takes you 10 years to get the $1000, you are earning $100 per year. Of course, this assumes that Sweatcoins will remain around for that long, but you’re not really losing anything given that walking outside is presumably something you’re already doing.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons-1&quot;&gt;Cons:&lt;/h3&gt;
+&lt;p&gt;It will literally take years to earn big rewards. Assuming you walk 10,000 outdoor steps each day, which most Americans don’t, it will take nearly 7 years for you to earn $1000 or the iPhone. Even if you max out your points (570 sweatcoins per month, 7 sweatcoins every 3 days using the daily bonus), it will still take over 2.6 years to complete and that’s walking 12 miles outside every single day.
+The smaller rewards aren’t very good. They’re slow to update the medium-sized rewards (the 6500 sweatcoin wireless headphones have been sold out for a few days but has not yet been updated) and the other medium-sized reward is a skydiving thing. The small rewards are even less appealing because most of the time it’s a one month free from a year-long subscription or X% off a product. There’s no smaller cash-out option.
+The daily bonus is iffy. Sometimes I’ll try to watch the ad video in order to get the bonus but it’ll take forever to load before simply telling me there are no ads right now. But I do like that it’s not streak based.&lt;/p&gt;
+
+&lt;p&gt;Affiliate Link: sweatco.in/i/mover893121&lt;/p&gt;
+
+&lt;h2 id=&quot;lympo&quot;&gt;Lympo&lt;/h2&gt;
+
+&lt;p&gt;Lympo is another app that rewards you for walking but it does so in the form of challenges. You choose to join certain challenges and then either use the built-in tracker (which will map your path) or connect to Apple’s Health app or whatever your phone uses to track your steps to complete those challenges. Steps expire at the end of the day and each challenge has its own expiration date. Each challenge also has its requirements and rewards so there isn’t a set number of Lympos for steps.&lt;/p&gt;
+
+&lt;p&gt;It’s much harder to calculate the earning potential because of the nature of the challenges but I got an email last week saying that I earned more than 55% of Lympo users with my 115 coins that week (I really only walked to and from work and maybe a mile or two on a treadmill). But that means for the average user, it would take nearly 20 years to earn the Samsung S10+. I think the max is somewhere near 140 Lympo per week so it would still take 16 years to earn a phone. The good news is, there are smaller rewards that I find worthwhile. A shirt costs 2000 Lympo so I could get about 3 new shirts a year with average American walking. And the shirts look really good so I’m actually excited about earning them. They also stock gift cards (700 coins for $5) so $5 every 6 weeks or so for the average user.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-2&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;Uses Apple’s health app so I don’t have to keep this app open for it to calculate steps. Unlike Sweatcoin, indoor steps work as well.
+The app is well designed and fun to use. I like the lower rewards that are available because they’re unique and feel attainable.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons-2&quot;&gt;Cons:&lt;/h3&gt;
+&lt;p&gt;Requires more maintenance. Because of the fact that steps and challenges both expire, you have to check into the app before 11 AM for the morning challenges, for example. But the steps are automatically syncing if you choose to connect to your phone’s tracker so that means completing challenges is only 2 taps. The challenges are also the same day-to-day so you quickly begin to get into a pattern of knowing which challenges you can complete each day.
+The lack of uniformity means that the bigger step goals are a waste of time in terms of Lympo coins. Today’s 4-mile challenge nets you 8.15 Lympo coins while the .61 mile one gets you 3. So one challenge gets you nearly 5 Lympo coins per mile while the other only a measly 2. Even more infuriating the afternoon .61 mile challenge gets you 3 while the evening one gets you 1.17.
+Like I mentioned in the description, the bigger rewards are simply unattainable.&lt;/p&gt;
+
+&lt;p&gt;Note: They seem to be making some changes though so this information may not be correct in the future.&lt;/p&gt;
+
+&lt;p&gt;Affiliate Link: lymporun.page.link/ytv8S&lt;/p&gt;
+
+&lt;h2 id=&quot;podcoins&quot;&gt;Podcoins&lt;/h2&gt;
+
+&lt;p&gt;For every 10 minutues of listening to a podcast, you can earn 1 Podcoin on this app. There are bonus podcasts that allow you to get .5 extra and if you have a streak for longer than 3 days (you maintain the streak by listening for at least ten minutes per day) then you will get another bonus Podcoin every 10 minutes. That means in total you can get 2.5 Podcoins every 10 minutes. I was told that the max per day was 6 hours but I seem to have been able to go past that.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-3&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;If you already listen to podcasts while going to school/work then this is perfect for you. It will allow you to subscribe to podcasts to save them, download podcasts for offline listening etc. so it has all the basic functionality. However, since it is based on listening time, you cannot speed up the podcast which was a big deal to me since I like podcasts at 1.5x speed.
+There’s a number of different gift card rewards: Amazon, DD, Starbucks, AMC, Google Play, Target, Athleta, Uber, and Pottery Barn.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons-3&quot;&gt;Cons:&lt;/h3&gt;
+&lt;p&gt;Starting to sound like a broken record but the big rewards are simply unattainable. The Bose QC 35 would take someone 6 hours of listening every single day on a bonus podcast to listen for 3.7 years before getting that reward. If you listened to a podcast you actually like and not one of the bonus ones, it’ll take 4.6 years. And no offense to my little brother but if you’re listening to podcasts for 6 hours every day, then you have a problem. At a much more reasonable 2 hours of listening per day on a non-bonus podcast, it’ll take about 2.3 years to get a $50 gift card. That would be about $20 in gift cards per year. Not terrible but certainly not good. At times when I’m not worried about battery life or anything I just leave bonus podcasts on while my phone is muted. It does ask if you’re still listening after a certain amount of time. Using this and with the caveat that I keep losing my streak so I definitely could’ve done better, I’ve earned about a dollar per month.
+The podcast shuts off when you open games and some other apps. Not a major problem but it’s inconvenient. Also inconvienient is that it has a social aspect built in - looking at other people’s listening history, having a leaderboard, a way to follow other users etc. but ……. no way to search for a user. My brother and I literally had to coordinate following a stranger who was high on the leaderboard in order to find each other’s accounts.&lt;/p&gt;
+
+&lt;p&gt;Update: Podcoins is no longer available.&lt;/p&gt;
+
+&lt;h2 id=&quot;walgreens&quot;&gt;Walgreens&lt;/h2&gt;
+
+&lt;p&gt;I had a whole thing written and then they went and changed how the rewards worked entirely so this app is to be blamed for the delay in posting this article. There are four week challenges - you can earn 100 per week and do 2 challenges at once (one health related and the other lifestyle related). For example, walk 10,000 steps each day and tracking your spending habits. After successfully completing a four week challenge you get to spin a wheel for more points. Assuming 1000 points on the wheel (I have no idea what the chances are or anything), that’s approximately 2,800 points each month or nearly 3 dollars off your next Walgreens purchase.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-4&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;I like the challenges because you get to pick and choose the ones that are relevant to you. The walking ones can be automatically tracked so it’s not very difficult to keep up with. And the ones that you have to manually track, you can just log in once a week and check off the days that you did the activity. You do have to remember to do this every week but the time commitment is very low.
+This works for Walgreens and Duane Reade and also syncs with the cashback that occurs when you make purchases at these stores. I’m counting this as a pro because these stores are everywhere in New York but obviously if you never shop at Walgreens or Duane Reade this might actually be a con.&lt;/p&gt;
+
+&lt;h3 id=&quot;con&quot;&gt;Con:&lt;/h3&gt;
+&lt;p&gt;I’m just generally not a fan of reward systems that have “random” rewards.
+The app is really ugly. Some links end up on a PDF-style text and it just doesn’t look good.
+In tiny text, I discovered that points do expire! Accounts are deemed inactive if you do not make a purchase in the past six months. Points also expire one year after they are acquired.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievement&quot;&gt;Achievement&lt;/h2&gt;
+
+&lt;p&gt;This app is pretty much only here because of the fact that it is absolutely 0 maintenance. You get points for walking that it automatically tracks. The amount of points you can earn in a single day is very high (80 points - you get 1 point every ~375 steps, and 6 points for logging activities like food tracking on apps that can be connected). You can cash out when you reach 10,000 points which is $10 on either PayPal or GiftRocket. You can also donate that money. Occasionally surveys and health-related readings will pop up that give you rewards.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-5&quot;&gt;Pros:&lt;/h3&gt;
+&lt;p&gt;No maintenance. Super easy to use.
+Connects to 20+ other apps for tracking purposes so no matter what you use, it is probably included.&lt;/p&gt;
+
+&lt;h3 id=&quot;cons-4&quot;&gt;Cons:&lt;/h3&gt;
+&lt;p&gt;Not super easy to get to 10 dollars without tracking food etc. (about a year walking 10k steps a day).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Aug 2019 08:07:00 -0400</pubDate>
+        <link>http://localhost:4000//misc/2019/08/30/Rewards-Apps.html</link>
+        <guid isPermaLink="true">http://localhost:4000//misc/2019/08/30/Rewards-Apps.html</guid>
+      </item>
+    
+      <item>
+        <title>Desk Setup</title>
+        <description>&lt;p&gt;The obvious followup to my tech EDC post, which contains the items that I typically carry around when away from my desk is to talk about my desk setup and how that’s organized. The pictures above was what my college desk looked like in the beginning of the school year. There’s definitely been some changes and I’ll go through that as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/img/desk2.jpg&quot; vspace=&quot;5%&quot; /&gt;
+&lt;img src=&quot;../../../../assets/img/desk1.jpg&quot; vspace=&quot;5%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B016XWX52I/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=b22381ab9e2d24a65635fd768ba5508f&amp;amp;language=en_US&quot;&gt;The Lamp&lt;/a&gt;: This lamp is pretty commonly seen, very popular on desk setups. I don’t think it’s necessarily the most practical of lamps but it’s so pretty and just has a nice design. I definitely use this as mood setting more frequently than I use it for lighting my work. And that’s the main reason I switched out the lightbulb that it came with for a &lt;a href=&quot;https://www.amazon.com/dp/B07C1ZZR4H/ref=as_li_ss_tl?coliid=ING2Z4APQEXYY&amp;amp;colid=3GK8VN3SLL3IC&amp;amp;psc=1&amp;amp;ref_=lv_ov_lig_dp_it&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=922100cafe43285cda9bdae684e33620&amp;amp;language=en_US&quot;&gt;RGB light bulb&lt;/a&gt;. I know people complain often that like dorm room lighting sucks but a lot of the work that I do, at least during the evening/night, is pretty computer heavy anyway. My roommate constantly borrowed the lamp until she went out and bought her own because she likes a much brighter workspace so I think it’s kind of person dependent. I wouldn’t say it’s a must have, but it’s useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00BP4DUMU/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=1aa1c42fb921ed017857aed44f158fc4&amp;amp;language=en_US&quot;&gt;RGB Light Strip&lt;/a&gt;: Again, great for mood setting. Not much to say, many college students have these.&lt;/p&gt;
+
+&lt;p&gt;Box of tissues and hand sanitizer: It’s incredibly useful to have these in plain sight and easily accessible. I kept a box of tissues on top of the fridge, on top of my desk and in my room. You just don’t want to have to walk to grab one.&lt;/p&gt;
+
+&lt;p&gt;A plant: So, I accidentally killed this one (dropped it behind my desk at least a half dozen times, whoops). I didn’t stringently fact check but I believe that studies have shown having a plant in your workspace/desk leads to a boost in productivity as well as reduces stress. For me, since my grandparents have dozens of plants in our apartment, it also reminds me of home a little bit. So, I got a new cactus. It’s a little bigger so less easy to drop behind my desk. Probably going in the same place on my lamp base.
+Pencil cases: I have too many on my desk right now (I’m up to three). Definitely leaving at least one at home. I know I mostly only use one pen at a time but it’s still nice to have options. In addition to pens, pencils, highlighters and markers, I also keep a compass and a pair of scissors. Real talk though, no one in college has basic supplies so it’s quite useful to bring along things like a pair of scissors, staplers etc. For next year, I think I’m going to put more daily use items (blue/black pens for instance) in one pencil case, and more infrequently used stationery (like colored pens) in the other. In front of the pencil case you can see erasers of different shapes, those were quickly removed soon after to reduce the clutter on my desk.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Post-6545PK-Original-Colors-100-Sheet/dp/B00006JNN6/ref=as_li_ss_tl?keywords=post+it&amp;amp;qid=1564500728&amp;amp;s=gateway&amp;amp;sr=8-3&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=72eed682bbfa293d3d0166645aff8b64&amp;amp;language=en_US&quot;&gt;Post-its/Memo pad&lt;/a&gt;: Honestly, I think these are super underrated. The memo pad was a gift so I really have no idea where to find that. The side design is a nice touch and it’s got a hole punched in it to act as a pen holder but I find that useless. Super useful for leaving little notes to yourself. If I need to print something in the morning for example, I know I’m not going to remember that after I wake up so I’ll write “PRINT” and place the note on top of my glasses which I know I won’t forget. I like having both the post-its and memo pad because sometimes I want to stick a note up but if it’s just for my desk then I don’t want any stickiness. And the colorful post-its are only marginally more expensive and make them so much more fun to use.
+Water Bottle: Keep your water bottle very visible so that you’re reminded to hydrate.
+Playing Cards: Keep something fun on your desk to play around with when you’re stuck.
+Paper Holder: I bought these very cheaply on IKEA and despite being made of cardboard, they’re surprisingly sturdy. But you do have to balance them correctly otherwise they can tip (and because of that I ended up putting it on the floor next to my desk instead of on top). I liked to keep a few to separate my school work out but that one in particular was my “memorabilia” stuff. Lots of events have tickets or wristbands that you have to have in order to get in but that you also get to keep. So I kept those for the interesting nights out I had or for the shows that I attended.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B06X15HLD9/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=606bc8358f11c85ceeaaac2a02e9f99d&amp;amp;language=en_US&quot;&gt;Headphone Stand&lt;/a&gt;: Itself very useful but this also doubles as a wireless charger which is very useful for keeping the wire clutter down.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B01MTB55WH/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=7d422c629fcb611f88a5c09d46606bbf&amp;amp;language=en_US&quot;&gt;Speaker&lt;/a&gt;: Built in computer speakers kind of suck so that’s why that’s on my desk. Once my plant died, I kept it on the lamp base which I think is a better place for it than what’s shown in the picture above.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00V9JP8EE/ref=as_li_ss_tl?ie=UTF8&amp;amp;th=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=df38e8b88335207055f4727e9e883a4e&amp;amp;language=en_US&quot;&gt;Diffuser&lt;/a&gt;: Dorm rooms smell bad sometimes. Plus it has lights and you can do peppermint for Christmas time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B073573XH7/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=fd02b128f475bd429ae76cef01638546&amp;amp;language=en_US&quot;&gt;Laptop Stand&lt;/a&gt;: Actually super nice. It makes typing a much more ergonomic experience and keeps me in a better posture because I’m looking straight across rather than a downward angle.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B07D9B4TVC/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=bb16eb18109996a1855d05b02952f8eb&amp;amp;language=en_US&quot;&gt;Keyboard&lt;/a&gt;: I know a keyboard is definitely not something everyone wants or needs but I love the typing experience I get with it. The clicking is super satisfying to me and when I use it for a while and then have to go back to my laptop’s regular keyboard, it feels like mush. This is something that brings me daily joy and will last a long time, so I personally feel the price was worth it. I can’t say that it has made my typing much faster (it’s maybe 1-2% faster, I do get consistently higher scores on typing tests but it’s a marginal increase).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B011HTFUU2/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=9482e1e5db4d6c111cea60751098255c&amp;amp;language=en_US&quot;&gt;Cable Clips&lt;/a&gt;: So useful! These ones are pretty good at sticking (as long as it’s not like a massive cable) but if you take it off, it’s not going to stick back up again.
+The keyboard is usually in the keyboard spot on the desk along with some easy-access tech like my small portable charger. In my first drawer I kept some often used life items like my glasses case or my mouthguard case. I kept my stapler and stuff in there as well. My second drawer was school items. So any papers that I wasn’t currently using but might need for finals studying or something. And the last drawer was for seldom used items like art supplies, some eating utensils and my tech bag when I wasn’t carrying it around.
+On the wall next to my desk, I had a couple of drawings that I made as well as a dry erase board. The board was given to me but I did buy these &lt;a href=&quot;https://www.amazon.com/gp/product/B00PRYQJ72/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=sl1&amp;amp;tag=jt1250champ-20&amp;amp;linkId=7abe8d867cf16dc2757754d192023d02&amp;amp;language=en_US&quot;&gt;magnetic markers&lt;/a&gt; that have held up well. Great for reminders/communicating with roommates.&lt;/p&gt;
+
+&lt;p&gt;And lastly, I have all of these devices that need power and our room literally only had 1 wall outlet. This Belkin power strip that I had was crucial to my setup and had enough ports left over for two of my roommates to power their devices.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jul 2019 07:34:00 -0400</pubDate>
+        <link>http://localhost:4000//tech/2019/07/30/desk-setup.html</link>
+        <guid isPermaLink="true">http://localhost:4000//tech/2019/07/30/desk-setup.html</guid>
+      </item>
+    
+      <item>
+        <title>My Tech EDC</title>
+        <description>&lt;p&gt;I carry a &lt;a href=&quot;https://amzn.to/2SBVl8l&quot;&gt;Bagsmart bag&lt;/a&gt;, a recommendation from YourAverageConsumer and it’s wonderful. There are so many pockets and so much room. I love being organized with my belongings and feeling like there’s a slot for everything. It feels high quality and it’s not too expensive at $26 on Amazon. I literally carry it around everyday and I haven’t seen a single scratch or tear. And with the double layer, there is legitimately so much you can carry, which is great as a college student because I’m often not going back to my dorm room until bedtime.&lt;/p&gt;
+
+&lt;p&gt;There’s an outside pocket for you to store easy access documents or something like that. Because I stuff this bag full and sort of just toss it in my backpack, I would never keep a document that I don’t want bending in there. But if you have a few notecards for a class that’s too small for a folder or something, this would be a good place to put it. I’ve toyed with the idea of getting a Field Notes notebook or some other sort of little notepad for the times where I need a scrap of paper but haven’t yet.&lt;/p&gt;
+
+&lt;p&gt;The theme of the first layer of my bag is “cables and other connecting items”.&lt;/p&gt;
+
+&lt;p&gt;In the first pocket, which in the promotional images shows having an iPad Mini or Kindle (which I find silly, because I would just keep that in my laptop bag, not that I carry either anyway), I like to keep some of my bigger items.&lt;/p&gt;
+
+&lt;p&gt;First is a &lt;a href=&quot;https://amzn.to/2JNakte&quot;&gt;Belkin 3-outlet surge protector&lt;/a&gt;. Belkin is a well-trusted brand for surge protectors and I use one of their giant ones in my dorm room. This thing has definitely been pretty useful. I wouldn’t call it necessary for college or anything nor do I use it often but it’s a lifesaver sometimes. I originally bought it for instances where coffee shops don’t have enough outlets etc. but for some reason I haven’t ran into that issue very often. School libraries also seem to have enough outlets so that’s not a worry. I did use it a few times when working with friends at the dining hall because the wall outlets are spread far apart enough that you can’t use different ones while still sitting with your friends. So really, it’s only handy in a group. The time that it really saved me though was when we were in San Diego travelling. It’s four people to a room and we each have a computer and a phone so that’s at least 8 devices. That and we all had the same schedule since it was a school trip meant that the extra ports were a (battery) lifesaver.&lt;/p&gt;
+
+&lt;p&gt;It takes a little bit of maneuvering sometimes since the surge protector is L shaped but in this same pocket I can also fit a laptop charger. I don’t necessarily recommend this charger (I bought it because it was on sale for $30 on Best Buy and both my brother and I needed a USB-C laptop charger so the cheaper it was, the better). I’ve used it very often for a year now and so far, so good. The connection definitely doesn’t feel as secure as other laptop chargers, I can see the USB-C port being bent slightly as gravity pulls down on it when it’s connected. It’s not a big deal but noticeable. Likewise, the part that goes into the outlet also has a fairly weak connection, but unless you’re connecting it above your head, I wouldn’t worry about it. So the reason I bought this is because I have the charger in my room behind the desk to prevent a tripping hazard. But that also means that it’s super annoying to take out (and especially to put back in). I rather just have a separate one for on the go use.&lt;/p&gt;
+
+&lt;p&gt;The other side has 5 mini pockets made for cables. There’s a strap to keep them in place as well as a little pocket to hold them. The cables that I keep in here alternate depending on what I’m doing. I have never used a 3.5mm male to male cable and I had one as it came with a few headphones I bought but not useful at all to me so I eventually took it out. I do however keep a pair of iPhone headphones (just the ones that came in the box) for the times that my Bluetooth headphones run out of battery or when it’s just too hot to be wearing them. I also keep the lightning to headphone jack that came with my phone although I haven’t ever had the need for it.&lt;/p&gt;
+
+&lt;p&gt;The other “connection” items that I keep here are my dongles. My MacBook Pro has no non-USB-A ports so it’s really useful to have a USB-C to USB-A/SD card/etc. It’s quite a bit more expensive if it has HDMI but as a college student, I kind of think it’s worth it. There’s been a number of weekends where my friends and I are watching something together (I’m not over how bad that last season of Game of Thrones was) and one of my friends always worked the projector so I didn’t truly have a need for it. But eventually I tried to watch a basketball game with a friend and we realized none of the TVs have cable channels so we had to connect to our laptops. Anyway, an HDMI port might be useful or an adaptor for Thunderbolt if you have a MacBook or VGA if projectors in your school still use those. I won’t bring this &lt;a href=&quot;https://amzn.to/2JX3hhD&quot;&gt;Aukey Adaptor&lt;/a&gt; around if I don’t expect to be connecting too many devices to my computer although it is ever present on my desk. I might also put this in my laptop bag for easy access. Instead I have these &lt;a href=&quot;https://amzn.to/2ykCiWI&quot;&gt;Aukey dongles&lt;/a&gt; that only do one USB-A port that I use if I’m just connecting my mouse for example.&lt;/p&gt;
+
+&lt;p&gt;For the purposes of charging devices, I have a USB-A to Lightning cable, USB-A to micro-USB cable, and a USB-A to USB-C cable. My go-to for anything cable related is Anker. I’ve never had an Anker product break on me yet and my cables get bent into all sorts of weird shapes. I like the &lt;a href=&quot;https://amzn.to/2STDoT7&quot;&gt;4 inch lightning cables&lt;/a&gt; because it’s just convenient not to be holding like a 3 feet long cable when using a portable charger. The rest of my cables came with devices so I haven’t had to buy a micro-USB cable yet. Then I have some miscellaneous things - a cheap pen if someone asks to borrow a pen and I know I’m never getting it back, a cheap pencil, and then a good pen for my own use if I happen to forget my pencil case or something. I also have a hair tie just in case.&lt;/p&gt;
+
+&lt;p&gt;The second half of my bag is a little more random. It’s always recommended to back up your computer and with that in mind, I have a &lt;a href=&quot;https://amzn.to/2YrxTMi&quot;&gt;Samsung T5 with 500GB&lt;/a&gt;. I haven’t done anything special with it yet, it just backs up my computer for now but in the future, I definitely want to try using an external SSD to play some games or something. Either way, the extra storage is very useful especially since I have my computer partitioned so each operating system takes up space and I have some dedicated to the Windows side. I also keep my smaller portable charger in here. Once again using an Anker product, this is the &lt;a href=&quot;https://amzn.to/2LKaNyz&quot;&gt;Anker 10,000&lt;/a&gt;. It’s small and actually portable unlike my other one. It doesn’t leave a huge bulge in my pocket and is rather lightweight but will still charge my phone a few times. The other big item I sometimes carry in here is my multitool (&lt;a href=&quot;https://amzn.to/2ynZdQV&quot;&gt;Leatherman Surge&lt;/a&gt;) + wine bottle opener. As a student, I honestly use the bottle opener more than anything else. Sometimes the knife to cut through tape and open a box but that’s really it. Still, I love my multitool and thus find it nice to carry around. My multitool is also rather expensive so a cheaper alternative is the &lt;a href=&quot;https://amzn.to/2Yr4guK&quot;&gt;Gerber Dime&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then some miscellaneous items. I carry around a &lt;a href=&quot;https://amzn.to/2SIcZau&quot;&gt;skull shaped multitool&lt;/a&gt; again mostly because it has a bottle opener. It’s much smaller and very light unlike my actual multitool so this is a more permanent fixture in this bag. I also have a SIM card tool just in case, a spare Aukey dongle, a flash drive, and a microfiber cloth for cleaning screens. I also carry a separate first aid kit in my bag but just in case I have a few bandaids in my tech bag, as well as condoms (hey it will keep your devices dry) and period pads. Since I collect playing cards, I’ll often also place one in this bag if I’m ever bored.&lt;/p&gt;
+
+&lt;p&gt;If I’m travelling or otherwise keeping this bag around for a longer period of time, I’ll add a cheap pair of earbuds for my laptop (or again sometimes I just throw this in my laptop bag), and my &lt;a href=&quot;https://amzn.to/2ydW3iT&quot;&gt;Jaybird wireless earbuds&lt;/a&gt; for going to the gym or running. They last for a long time and are very durable so I can just stuff them in my pockets without an issue. I’m not an audiophile so I can’t really go into much detail beyond that it sounds good to me. I don’t find them super comfortable but it’s fine enough for an hour or two at the gym. And they don’t fall out which is a big plus when running. I’ll also bring a spare camera battery and SD card if I’m travelling with my camera. I might add the wall outlet part of my phone charger but the Belkin kind of takes care of that since it has 2 USB-A ports as well.&lt;/p&gt;
+
+&lt;p&gt;One last thing to note is my &lt;a href=&quot;https://www.amazon.com/Logitech-M705-Wireless-Marathon-Mouse/dp/B003TG75EG/ref=sxin_5_sxwds-bovbs?keywords=logitech+mouse&amp;amp;pd_rd_i=B003TG75EG&amp;amp;pd_rd_r=b169428e-c6c6-4e14-ade5-5c08458210db&amp;amp;pd_rd_w=doaOz&amp;amp;pd_rd_wg=YtPup&amp;amp;pf_rd_p=55b738be-ff12-48ad-8ad2-6a14afb06d32&amp;amp;pf_rd_r=PR3V735WWWVVRMCDFZMR&amp;amp;qid=1564287738&amp;amp;s=gateway&quot;&gt;mouse&lt;/a&gt;. I love using a mouse but I know it’s not always practical if I’m working in a coffee shop or something. I do have a small mouse that’s easily portable and can fit easily in the second layer of my bag but my everyday use mouse does not. I hate the small mouse because my hand drags awkwardly behind it and it’s just not fun to use. Because of issues with the trackpad on Windows (since the new Macbook doesn’t actually click anymore, there’s some minor annoyances), I find myself wanting to carry around a mouse more and more. So when carrying my mouse around, what I do is place it with my Belkin surge protector since they’re about the same thickness and instead lay my laptop charger flat and instead of wrapping the cable around it, wrap the cable separately to keep it as thin as possible.&lt;/p&gt;
+
+&lt;p&gt;Outside of the BagSmart bag, I have just a few items. First up is another bag to hold my laptop. Here I use the &lt;a href=&quot;https://amzn.to/310PDju&quot;&gt;Lacdo 13” laptop bag&lt;/a&gt;. It’s got a super soft texture inside and feels sufficiently sturdy and cushioning enough that I’m not too worried about dropping my bag down (within reason of course). I love the outside pocket because it’s big enough to store quite a few items. When travelling, this is where I put my passport and other easy access items since my laptop helps keep them straight. As mentioned before, I will also keep my USB hub and a pair of cheap headphones for my laptop in here.&lt;/p&gt;
+
+&lt;p&gt;My headphones are the Sony WH-1000XM2. I do really want to &lt;a href=&quot;https://amzn.to/2K0h4Et&quot;&gt;upgrade&lt;/a&gt; but that’s too big of a financial burden for me right now. I love these headphones. They’re a little on the heavier side (which is the major reason why I want to upgrade, for added comfort) but they’re definitely manageable for several hours on end. I love the noise cancellation on this thing because subways are crowded and coffee shops are crowded and it truly blocks out all the noise. Last year I had a roommate that would just play Overwatch all day long while I was trying to work at my desk. I legitimately think I would’ve gone crazy if it weren’t for these headphones blocking out most of the noise. They fold up easily for storage and the case that it comes with is really all you need. I love the sound quality on this thing (the Bose noise cancelling ones sound a little further away to me) and the bass on this thing is definitely better than the Bose ones. The one flaw is that it only connects to one device at once. So once it’s connected to my phone, it can be really annoying to disconnect and then connect to my laptop. I sort of get around this by just turning off Bluetooth before I turn the headphones on but that’s still an inconvenience.&lt;/p&gt;
+
+&lt;p&gt;I wouldn’t call my &lt;a href=&quot;https://amzn.to/2SKNcyI&quot;&gt;speakers&lt;/a&gt; and “every day” carry but in certain social scenarios, speakers really set the mood. Another Anker product here, these speakers are probably the best you can get at this price. It’s very affordable, sounds fine (better than phones/laptops do anyway) and loud enough to fill a dorm room although not much more than that.&lt;/p&gt;
+
+&lt;p&gt;I also don’t carry my &lt;a href=&quot;https://amzn.to/2SJ4NH2&quot;&gt;big portable charger&lt;/a&gt; every day but this thing is a beast. A true lifesaver. I once forgot to bring a phone charger while I was away for 5 days. This thing kept my phone alive for 5 days while I was using it pretty extensively like I watched probably 5 hours of HIMYM and texted and surfed the web throughout the day. I took so many photos and my battery life was fine. It wasn’t even dead after these five days. Like I legitimately think I could’ve probably stretched it out to 8-10 days. This thing is amazing. If I’m not mistaken, it’s the largest size you can fly with and while expensive it’s a must have for me.&lt;/p&gt;
+
+&lt;p&gt;I don’t know if a water bottle really counts as tech but it’s certainly an every day carry. I have a few different water bottles that I think are worth a mention. First, I have these water bottles with built in tea infusers and since I love cold brewing tea, this is a wonderful addition. You can easily take out the infuser once it’s done brewing and just use it as a normal water bottle. I haven’t had any issues with leaking or anything like that. Colleges give out a lot of water bottles in my experience and I got one with insulation to keep drinks hot/cold. I don’t drink hot drinks (iced coffee in winter is not as common outside of NYC by the way), but I can see the appeal of keeping drinks cool in the summer. I wouldn’t get a Hydro Flask because man those things are overpriced. There’s plenty of knockoffs to choose from. Anyway, the last one to mention is the &lt;a href=&quot;https://amzn.to/30YMQHl&quot;&gt;Blender Bottle&lt;/a&gt;. I had no doubts that it would work for protein powder since that’s just powder. But it blew my mind when I could use it for peanut butter or chopped up bananas. It’s only about $10 on Amazon so if you don’t have a blender, this thing is awesome. I’m the type of student to wake up 15 minutes before my class starts with no time for breakfast so this will be great for dumping a bunch of ingredients in and shaking on my way to class. I’ve been making like a fake latte(?) by taking my cold brew coffee that I make overnight and putting it together with my protein powder + milk. I usually drink my coffee black but since I mix my protein powder with milk anyway, this helps tide me over until lunch in the morning.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jul 2019 12:12:00 -0400</pubDate>
+        <link>http://localhost:4000//tech/2019/07/28/tech-edc.html</link>
+        <guid isPermaLink="true">http://localhost:4000//tech/2019/07/28/tech-edc.html</guid>
+      </item>
+    
+      <item>
+        <title>My Favorite pens</title>
+        <description>&lt;p&gt;So, for those of you who don’t know…I’ve got quite a pen addiction. Like pencils are nice and I can appreciate the Blackwing design but really I just buy a gigantic pack of Bic mechanical pencils and Ticonderoga pencils. It’s literally been years and I haven’t finished them yet. A good pencil is nice, but I just don’t have strong feelings on them. My pens though, I’ve got quite an attachment to my pens.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I don’t have an exact favorite because it changes pretty frequently with me but I would recommend anything that I namedrop in this list.&lt;/p&gt;
+
+&lt;p&gt;I’m starting off with a fountain pen because it stands alone in this list. I feel like I should be more into fountain pens, but oddly enough I’m just not. I really enjoy using them - I keep one on my desk for when I’m writing a little more fancily but I can’t bring myself to use it for daily use. I feel like I seem like a fountain pen kind of person. The idea of putting in investment into an everyday product for greater pleasure in ordinary actions seems like something I would be into. It feels a lot like the way I’m into mechanical keyboards. Alas, this is still a special occasions only type of thing. That being said, of course I had to go with something cheap since I’m not putting a ton of money into something I don’t use often. And for under $15, my pick has to be the &lt;a href=&quot;https://amzn.to/2Y5BteY&quot;&gt;Pilot Metropolitan&lt;/a&gt;. The body is smooth and feels nice in the hand. There are dozens of designs to choose from and it definitely looks and feels more expensive than it actually is, especially because of its metal build. Unlike the Pilot Varsity (which is a disposable fountain pen), this one is truly a fountain pen. You can add their proprietary ink cartridges (which also comes in a few different colors), or even use a converter for bottled ink. I like having this setup and maintenance because it feels more like the full experience. It’s a joy to write with, and definitely recommended for anyone who wants to try out a fountain pen.&lt;/p&gt;
+
+&lt;p&gt;Next up, from the same company, is the &lt;a href=&quot;https://amzn.to/2LC4JrU&quot;&gt;Pilot G2&lt;/a&gt;. First of all, this is probably far and away the most popular pen among people who want something higher quality than like a Bic pen. So one of the benefits is that they’re easy to buy at a number of retail stores. And I really like them, but there are so many better or comparable options. For me, the rubber grip isn’t as comfortable as the Zebra Sarasa or Uniball Signo ones, but that might just be personal preference. It’s a fairly light pen and I enjoy the weight of it. The ink is smooth and starts immediately (which is an issue I had with the Uni-ball Signo). I like the look and feel of it and it’s certainly a big step up from Bic Round Stics. I’ve definitely had issue with skipping in the pen far before the ink is empty. And once in a while (like a few pens in the pack), I had issues with the spring that caused just the tiniest wobble that was noticeable and annoying but not a dealbreaker.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, the Pilot G2 unfairly overshadows the &lt;a href=&quot;https://amzn.to/2XZyKsd&quot;&gt;Pilot Juice&lt;/a&gt; line. The Juice is definitely harder to acquire (I haven’t seen it in a retail store but I buy my pens in bulk online anyway so it’s not a big deal to me). It lasts longer and has less issues with skipping or globbing and it’s less scratchy. It’s better built which means it’s more likely to last until it runs out of ink. There’s also tons of colors available so if you’re the type of person to write in different colors, this is a great option. Also the clip has a spring which is awesome (if you’re the type of person to break off the clip then we can’t be friends, sorry).&lt;/p&gt;
+
+&lt;p&gt;I like retractable pens a little too much for me to really get into the &lt;a href=&quot;https://amzn.to/2Y2hp23&quot;&gt;Pilot Hi-Tec-C&lt;/a&gt; so I only have colorful versions for more artistic purposes rather than everyday use. That being said, there’s a .25mm version of these which takes ultra fine to an extreme and I love it. The body is very simplistic in design and not the most comfortable. With all of those things, I personally can’t use it as a daily use pen.&lt;/p&gt;
+
+&lt;p&gt;I’m going to move on from Pilot for a moment to discuss some alternatives to the Juice that are also gel pens. The &lt;a href=&quot;https://amzn.to/2SyPOj6&quot;&gt;Uni-ball Signo 207&lt;/a&gt; has definitely been a joy to use. There is a newer version &lt;a href=&quot;https://amzn.to/2XZz0Yd&quot;&gt;Uni-ball Signo 307&lt;/a&gt; that has a different gel ink that sticks to glossy paper better and is a little smoother but it’s not enough of a difference for me to change. It’s a little thicker than the Pilot Juice if I’m not mistaken and I find it on the lighter side but comfortable and well designed. I had an issue with a bad batch (the pen didn’t really start straight out of the box) which has turned me off to these pens right now but the pens that did work were a joy to use. Definitely a great everyday pen. For ergonomic reasons or for people who just grip their pen tightly, the Premier version of this pen might be worth a try.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://amzn.to/2Yg62mo&quot;&gt;Uni-ball Signo DX&lt;/a&gt; (or UM-151 in Japan) is widely recognized by pen aficionados as the best gel pen there is. It’s capped rather than retractable so I stick to the Uni-ball Signo 207/307 or UM-138 (but the weight distribution of the UM-138 is a little weird for me, it’s heavier on top where the clicker is). It’s a shame though because capped pens are less exposed to air and more protective thus better for the pen. The off-black ink colors is amazing and definitely a good way to add some excitement in a way that’s still easily usable in the office, school etc. There is also a Needle version for those that prefer a thinner tip but it’s very thin and I always get worried that I’m going to break it or something. It’s a very consistent pen although the Hi-Tec-C may be smoother.&lt;/p&gt;
+
+&lt;p&gt;Another top pick is the &lt;a href=&quot;https://amzn.to/2YuiJKB&quot;&gt;Zebra Sarasa Clip&lt;/a&gt;. This is a recent discovery for me but I love the way it writes. With the 0.4 which should be thicker than the 0.38 that I usually use in other pens, my Chinese writing somehow looks better. This is due in large part to the fact that the lines are super sharp. For small handwriting or writing in a language with more complex shapes, this pen will definitely help with readability. The clip is also spring loaded and the click of the pen is super satisfying. Something about the tip isn’t as fun for me as the Uni-ball Signo 207/307 and I think the grip might be less comfortable but the differences are minor and regardless I keep coming back to this pen.&lt;/p&gt;
+
+&lt;p&gt;I felt like I couldn’t leave off the &lt;a href=&quot;https://amzn.to/2YgtUq5&quot;&gt;Muji Gel pen&lt;/a&gt; just because of its popularity within my social circles. It’s a slightly cheaper pen than some of my other picks but in a pack of 10 or so, the price difference becomes negligible. That, however, assumes you buy in person (and it’s not available in the US outside of NYC which I think is a major reason this pen hasn’t grown in popularity) and buy other pens online. It’s super light, which for me is a negative but that’s personal preference. I’m not a fan of the super minimal design, especially because the texture becomes a little more slippery and uncomfortable before the Hi-Tec-C which also follows the minimal design. I also know there’s the hexagon one with the retractable design but I can’t always find that one. I realized when I used this pen on a daily basis that the ink is thinner and wetter than the G2 but I really only realized when I highlighted my words or wrote slowly. I don’t find it comfortable nor is it super convenient to buy and it smudges more than some other top picks. For the price though, it’s definitely a good addition.&lt;/p&gt;
+
+&lt;p&gt;Some quick shoutouts in the gel pen category: the Zebra Sarasa Dry Gel pen and the Pentel EnerGel are both great for lefties due to the quick dry nature of the ink. The Pilot FriXion is basically the only good choice for erasable pens.&lt;/p&gt;
+
+&lt;p&gt;I’m not as much of a fan of rollerball pens and definitely don’t have as much experience with them. The most popular option again comes from Pilot with the &lt;a href=&quot;https://amzn.to/32LBIiV&quot;&gt;Pilot Precise V5&lt;/a&gt; (or V7 if you prefer a little more thickness). It’s so smooth and feels great in the hand. It looks good and it’s just a classic. There’s not much to say; everyone knows this pen and for good reason.&lt;/p&gt;
+
+&lt;p&gt;However, I have tried a few others that are worth a mention. The &lt;a href=&quot;https://amzn.to/32ISmQ8&quot;&gt;Retro 51 Tornado&lt;/a&gt; pens look amazing. They’ve got a cool vintage look with so many designs. Since I collect playing cards, I love the &lt;a href=&quot;https://amzn.to/2YgFs8M&quot;&gt;ones with the face cards&lt;/a&gt; on them. But there are also some professional workspace looking ones. Yes, these pens are way more expensive but you can feel the premium nature. Another one that is very similar to the Pilot Precise line is the &lt;a href=&quot;https://amzn.to/2K4117s&quot;&gt;Uniball Vision Elite&lt;/a&gt;. It’s got nice feedback on the smaller tips and has great looking dark ink that is smooth. It again has the off black colors and it’s just a great pen. The &lt;a href=&quot;https://amzn.to/2XYuhpZ&quot;&gt;Morning Glory Mach Campus&lt;/a&gt; is another underrated pen and it’s especially worth noting that there is a .28 version of these and I love the amount of detail I can get with these.&lt;/p&gt;
+
+&lt;p&gt;I don’t use ballpoint pens very often anymore. You have to use a little more pressure with a ballpoint pen, but they also last longer. One thing to note is that ballpoint pens should be stored vertically with the tip down while gel ink pens should be stored horizontally. The pen I recommend here is the &lt;a href=&quot;https://amzn.to/2SBD8Yv&quot;&gt;Uni-Ball Jetstream&lt;/a&gt;. It’s sharp, fine, smooth, consistent, all the good qualities. Definitely the one to go to. Some other options include the Pilot alternative which is the Pilot Acroball or the Pilot Opt which has an extra long body to hold more ink, the Lamy 2000 which is great but expensive, and the Fisher Space Pen which is a super interesting concept, but not necessarily practically useful. Another thing to note is that the Parker Jotter will come up as a classic but it’s a decent but not great option.&lt;/p&gt;
+
+&lt;p&gt;Lastly, in the pen section we have to talk about plastic tip pens for art purposes. And here the &lt;a href=&quot;https://amzn.to/2SAbGKB&quot;&gt;Sakura Pigma Micron&lt;/a&gt; is an easy pick. There are certainly better ones (Copic makes one for example) but like everything else Copic makes, it’s expensive. The Micron is also virtually indestructible and lasts a long time. I love using them for art reasons and it’s much nicer than sharpie-ing for outlines.&lt;/p&gt;
+
+&lt;p&gt;Super random shoutouts: I love the black erasers from Muji but my all time favorite is the Staedler ones. Those really erase everything. I only use erasers when drawing so it’s super important to me that there’s no marks left. I honestly can’t tell pencils apart and like I mentioned above, I just buy cheap pencils in large quantities. That being said, I use &lt;a href=&quot;https://amzn.to/2JVeazs&quot;&gt;Prismacolor Premier&lt;/a&gt; as my drawing go-to pencils. Likewise they are also my go-tos for coloring pencils. I have one of those giant packs and I will literally never finish using them, so I have not tried anything else.&lt;/p&gt;
+
+&lt;p&gt;I wanted to shout out my &lt;a href=&quot;https://amzn.to/2YaxWvZ&quot;&gt;pencil case&lt;/a&gt; as well. I bought it when it was recommended by some YouTuber that I don’t even watch but I love this pencil case. I like to have pencil cases that provide lots of different slots so I can keep my utensils organized (unlike the box ones where you just throw everything in the same pocket). You can store literally dozens of pens in here, it’s got plenty of room. My one gripe would be that if you use a regular number 2 pencil, it can be a little too long if it’s a new one. I just keep sharpening until it’s the right size (but also I don’t use wooden pencils that often anymore anyway).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jul 2019 10:12:04 -0400</pubDate>
+        <link>http://localhost:4000//misc/2019/07/23/pens.html</link>
+        <guid isPermaLink="true">http://localhost:4000//misc/2019/07/23/pens.html</guid>
+      </item>
+    
+      <item>
+        <title>Beginner's Guide to Making a Workout Plan</title>
+        <description>&lt;p&gt;The first step in figuring out how to create a workout plan is figuring out what your goals are. A workout plan for building size is rather different than one for losing weight or for building strength.&lt;/p&gt;
+
+&lt;p&gt;One of the main reasons is that our muscles grow differently under different types of tension.
+Sarcoplasmic hypertrophy is the process in which we build size through increasing the amount of sarcoplasm which is a non-contractive fluid.
+Myofibril hypertrophy is the process in which we build strength by strengthening the myofibril which is what contracts your muscles
+Transient hypertrophy is the temporary increase in muscle size through fluid accumulation which many gym goers refer to as “the pump”&lt;/p&gt;
+
+&lt;p&gt;And this affects our workout plan because different rep ranges are associated with different types of hypertrophy. For those of you who don’t know, “reps” is short for repetitions, in other words: how many times are we doing this movement in a row? So if we did 10 pushups in a row, took a break and then another 10 in a row, then we did 2 sets of 10 reps.&lt;/p&gt;
+
+&lt;p&gt;If we are looking to build size, we would prefer to stick to the 8-12 rep range. For building strength, we would stick to 1-5 reps. For cardiovascular health/muscular endurance we would do 12-20 reps. Of course, this isn’t set in stone. Obviously you’ll still build strength if you do your exercises in the 8-12 rep range as the weight that you are using gets easier for you. Likewise as your muscles break down in the 1-5 rep range, you’ll increase in size. But these rep ranges are a good way to prioritize and focus on your goals.&lt;/p&gt;
+
+&lt;p&gt;The other very important aspect is nutrition. If you’re looking to add size as your primary focus, then you have to eat a caloric surplus. If you’re looking to lose weight, then a caloric deficit is a must. Strength training is important for both. It’s pretty clear how it can help in adding size, but the reason strength training is important even if your primary focus is losing weight is that in the process of having a caloric deficit, you will lose muscle as well as fat and water weight. The way to prevent losing muscle (or losing as much muscle) is to do strength training. It’s also a good way to burn extra calories to create or enhance that caloric deficit and it helps you burn more calories because it requires energy to rebuild muscle after it has been broken down.&lt;/p&gt;
+
+&lt;p&gt;Now that we know how many reps we might want to use, how many sets should we have? The general rule is 3-5 sets of each exercise not counting warm up sets. We should also try to limit the number of sets per workout to 15-25. The reason we want to do this is first and foremost we don’t want to spend hours and hours at the gym each day. There’s a limit to our concentration and if there are too many sets in the workout, it just becomes less effective at the end.&lt;/p&gt;
+
+&lt;p&gt;We want to rest in between sets to allow for some recovery and getting rid of the waste buildup in our muscles in order to complete our next set. For sets of 1-3 reps (strength/power), we want to allow for 3-5 minutes of rest in between. We want a long recovery time to ensure we are back at full strength for these heavy sessions. In the 4-7 rep range (strength), we want a 2-3 minute rest. In the 8-12 rep range (size/strength), a 1-2 minute rest. And if we are going beyond 12, then just enough rest to complete the next (long) set. It’s perfectly okay to adjust these rest times based on how you feel. They are general guidelines and if you feel like you need more rest to complete your next set, then you should take that extra rest to prevent injury.&lt;/p&gt;
+
+&lt;p&gt;Now that we know how many sets and reps we should have per workout, how many sessions should we have per week? A lot of this is dependent on your schedule but generally people go to the gym 3-4 times a week. As long as you keep 48 hours between training the same muscle group, you should have adequate time to recover. Some popular training splits are: full body 3-5 days a week with a different focus each session, push/pull/legs twice a week, or upper/lower twice a week.&lt;/p&gt;
+
+&lt;p&gt;Now that we discussed how to structure our training, what exercises should we do? The important aspect here is to hit all the major body parts.
+In the lower body, we have the quads in the front, glutes (butt) and hamstring in the back and the calves. In the upper body we have the “pushing” muscles (shoulder, chest, and triceps) and the “pulling” muscles (back and biceps). And finally, in the middle, we have the core (abs and lower back).&lt;/p&gt;
+
+&lt;p&gt;Some basic exercises to include are: squats for the quads, deadlifts and hip thrusts for the glutes and hamstrings, calf raises for the calves, bench press and overhead press for the push muscles, pull ups and rows for the pull muscles and planks and crunches for the core.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jul 2019 10:12:04 -0400</pubDate>
+        <link>http://localhost:4000//fitness/2019/07/22/workouts-part1.html</link>
+        <guid isPermaLink="true">http://localhost:4000//fitness/2019/07/22/workouts-part1.html</guid>
+      </item>
+    
+      <item>
+        <title>Songs of the Week</title>
+        <description>&lt;p&gt;A bit of a low effort post today but here are some songs that I’ve been listening to recently. They’re all on the “newer” side but some of them came out a while ago and I just recently discovered them.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;AROUND by Jule Vera&lt;/li&gt;
+  &lt;li&gt;Imported (Spanglish Version) by Jessie Reyez, 6LACK&lt;/li&gt;
+  &lt;li&gt;MEGATRON by Nicki Minaj&lt;/li&gt;
+  &lt;li&gt;Or Nah (Remix) by Ty Dolla $ign ft. The Weeknd, Wiz Khalifa, and DJ Mustard&lt;/li&gt;
+  &lt;li&gt;Good Old Days Macklemore (feat. Kesha)&lt;/li&gt;
+  &lt;li&gt;Devil’s in the Backseat by Lostboycrow&lt;/li&gt;
+  &lt;li&gt;Someone You Loved by Lewis Capaldi&lt;/li&gt;
+  &lt;li&gt;Call You Mine&lt;/li&gt;
+  &lt;li&gt;I Think I’m OKAY&lt;/li&gt;
+  &lt;li&gt;Truth Hurts&lt;/li&gt;
+  &lt;li&gt;Not Ok by Kygo, Chelsea Cutler&lt;/li&gt;
+  &lt;li&gt;Post Malone by Sam Feldt, RANI&lt;/li&gt;
+  &lt;li&gt;Can We Pretend by P!nk ft. Cash Cash, Sigala Remix&lt;/li&gt;
+  &lt;li&gt;So Close by NOTD, Felix Jaehn, Captain Cuts, Georgia Ku&lt;/li&gt;
+  &lt;li&gt;One Thing Right by Marshmello ft. Kane Brown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2019 10:12:04 -0400</pubDate>
+        <link>http://localhost:4000//music/2019/07/18/songs.html</link>
+        <guid isPermaLink="true">http://localhost:4000//music/2019/07/18/songs.html</guid>
+      </item>
+    
+      <item>
+        <title>Critical Thinking</title>
+        <description>&lt;p&gt;The importance of critical thinking is often lauded in schools, the workplace and general society.
+It’s in the important list of skills in the Common Core Standards and so many other lists of skills that
+students should come out of school having. The definition of critical thinking is certainly wide ranging
+but I consider it to be the type of thinking that we do aimed at finding the truth. It’s a difficult skill to work on in school. I mean oftentimes we just find it annoying when someone asks a lot of questions clearly trying to challenge the teacher. But we should praise difficult questions because they help us evaluate our thinking. If we cannot defend our thinking, we should not rely on intuition or past knowledge and instead either come up with a defense or change our thinking. Believing authoritative figures is how myths get perpetuated. Our great willingness to defend our beliefs even when we have no defense, is what holds us back from growing.&lt;/p&gt;
+
+&lt;p&gt;And this is especially scary on the Internet. So much false information that people aren’t willing to do the basic fact check on. And people are so defensive about positions that are even slightly different. I mean my parents and grandparents believe the world to be very differently than I do. And yes, of course there are differences in values etc. but the main reason is that they get all of their news from Chinese newspapers and WeChat. And it’s so frustrating how powerful the backfire effect is. The more I argue with them, especially with a small language barrier, the more entrenched in their beliefs they become.&lt;/p&gt;
+
+&lt;p&gt;I also have the same thoughts about people whose worldview &lt;strong&gt;are&lt;/strong&gt; similar to mine. There’s the people I call “New York Times Liberal” - I can’t complain about them too much because their worldview is at the end of the day quite similar to mine. But they hold the most boring and safe view every time. I mean the opinion section of the NYTimes is way less interesting than those of similar reputable news sources. And I love the NYTimes! But I love it for its fast reporting that I can trust (with verification) and giving me a good base point to jump off and explore topics in more depth. Anyway, the problem with the NYTimes Liberal isn’t their boring views, it’s the fact that they get their boring views by mindlessly consuming some news and not critically thinking and finding their own opinion. For so many of my peers, they’ll spend hours reading the news on NYTimes but nothing else and all that does is confirm the beliefs that they already hold, and give a very mainstream boring view on whatever new political issue that has come up. It’s just another example of people learning by rote memorization.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.brainpickings.org/2014/05/13/backfire-effect-mcraney/&quot;&gt;Here’s&lt;/a&gt; a great article if you want to read a little bit more about the biological aspects of the backfire effect.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jul 2019 01:21:04 -0400</pubDate>
+        <link>http://localhost:4000//philosophy/2019/07/17/critical-thinking.html</link>
+        <guid isPermaLink="true">http://localhost:4000//philosophy/2019/07/17/critical-thinking.html</guid>
+      </item>
+    
+      <item>
+        <title>The Commercialization of Pride</title>
+        <description>&lt;p&gt;Last month was the 50th anniversary of the Stonewall Riots and with that came a particularly
+big push from many different companies to show their commitment…and also to make some money.
+It is not a bad thing that many of these giant corporations that previously would never
+have been associated with LGBT+ rights is now actively embracing and trying to
+emphasize their inclusive policies etc. Some people might argue that it’s too little, too late
+and I wouldn’t mind the support if it didn’t seem so fake. For example, there are 9 companies that
+all claim to support LGBT+ rights and have super inclusive policies (scoring a perfect score on one
+Human Rights Campaign list) and yet together they have given more than $15 million to the most
+anti-LGBT+ politicians around. So really, it’s about making as much money as possible, whether
+it’s off the LGBT+ population or from friendly deals from anti-LGBT+ politicians. It’s not the people
+who matter, it’s the money. Studies have shown that people are willing to pay more for a product from
+a place they perceive as LGBT+ friendly than from a place they view as anti-LGBT+. Isn’t that the
+real reason these companies are displaying the rainbow flag?&lt;/p&gt;
+
+&lt;p&gt;Another major issue that I have is that the commercialization of pride masks many of the problems
+LGBT+ people still face, even in places like NYC. Of course Pride should be a happy, celebratory
+event where people can feel pride for being who they are and to celebrate the advances that has
+occurred over the last 50 years (although perhaps not so much in the past year). But the corporate
+nature of pride has changed the narrative to celebrate the stereotypical, dual income, childless
+couple who have the ability to spend money and travel and partake in this consumerism. This masks
+the problem that LGBT+ people are far more likely to fall into poverty than their straight cis-gendered
+peers. I am not at all complaining about individual companies who support Pride and LGBT+ people, but
+the aggregate effect of virtually every giant corporation in America doing so, means that Pride
+&lt;em&gt;is&lt;/em&gt; money.&lt;/p&gt;
+
+&lt;p&gt;There’s a guy who tried to argue for the commercialization of pride and how it’s not necessarily a bad thing.
+Here’s a link for those interested: https://fee.org/articles/why-the-commercialization-of-pride-month-is-not-a-bad-thing/. He has some silly argument about how the commercialization of Christmas was scary for the Christians too. But um…hello do you realize how many non-Christians celebrate Christmas? The commercialization of Christmas &lt;em&gt;did&lt;/em&gt; devalue the religious aspect of the holiday.
+He also claims that “The commercial items at Target and Nordstrom, however, will at least give you options while you plan a party—or a brunch (on your own behalf)”. But that’s not the point! The point isn’t that
+it’s easier to buy these products or whether or not these products are useful in society. The point is that
+these big corporations are profit-seeking off of people’s pain. If we argue that straight parades shouldn’t
+exist, and that straight people should be glad that they don’t exist, then pride parade is really about the
+difficulties that LGBT+ people have faced in the past and continue to face. In that case, in the same way
+that we protest when people sell photographs/videos of tragic events etc. we should also protest when
+big corporations, particularly the ones who aren’t true allies, make money off of other people’s difficulty.&lt;/p&gt;
+
+&lt;p&gt;One last thing: I also believe that Taylor Swift’s song is tone-deaf at best. And the mainstream nature of
+pride makes me feel rather unrepresented.&lt;/p&gt;
+
+&lt;p&gt;Here’s some links that are good:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vox.com/2018/6/25/17476850/pride-month-lgbtq-corporate-explained&quot;&gt;Vox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/culture/story/20190625-stonewall-riots-the-beacon-for-people-around-the-world&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slate.com/human-interest/2019/06/stonewall-riots-controversy-primary-sources.html&quot;&gt;Slate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Cy7R8c_Tymg&quot;&gt;Cammie Scott’s YouTube Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know I’m a little late with this post, sorry about that. I also didn’t fully edit or proofread
+and this is definitely very rushed writing. In the future, I will also be sure to add sources.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 01:21:04 -0400</pubDate>
         <link>http://localhost:4000//politics/2019/07/02/commercialization-of-pride.html</link>
         <guid isPermaLink="true">http://localhost:4000//politics/2019/07/02/commercialization-of-pride.html</guid>
-      </item>
-    
-      <item>
-        <title>Analysis of the Democratic Presidential Debates</title>
-        <description>&lt;p&gt;I’m putting so much research into this shit :’( Bear with me it’s gonna take a little
-while before it comes out.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Jul 2019 01:21:04 -0400</pubDate>
-        <link>http://localhost:4000//politics/2019/07/02/analysis-of-debates.html</link>
-        <guid isPermaLink="true">http://localhost:4000//politics/2019/07/02/analysis-of-debates.html</guid>
       </item>
     
       <item>
