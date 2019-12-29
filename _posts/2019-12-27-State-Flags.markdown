@@ -10,7 +10,7 @@ S Tier
   New Mexico
 
 A Tier
-  Arizona
+  Alaska
 
 B Tier
   Alabama

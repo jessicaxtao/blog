@@ -7,8 +7,8 @@ categories: tech
 
 The obvious followup to my tech EDC post, which contains the items that I typically carry around when away from my desk is to talk about my desk setup and how that’s organized. The pictures above was what my college desk looked like in the beginning of the school year. There’s definitely been some changes and I’ll go through that as well.
 
-<img src="../../../../assets/img/desk2.jpg" vspace = "5%">
-<img src="../../../../assets/img/desk1.jpg" vspace = "5%">
+<img src="../../../../assets/img/desk2.JPG" vspace = "5%">
+<img src="../../../../assets/img/desk1.JPG" vspace = "5%">
 
 [The Lamp](<https://www.amazon.com/gp/product/B016XWX52I/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=jt1250champ-20&linkId=b22381ab9e2d24a65635fd768ba5508f&language=en_US>): This lamp is pretty commonly seen, very popular on desk setups. I don’t think it’s necessarily the most practical of lamps but it’s so pretty and just has a nice design. I definitely use this as mood setting more frequently than I use it for lighting my work. And that’s the main reason I switched out the lightbulb that it came with for a [RGB light bulb](<https://www.amazon.com/dp/B07C1ZZR4H/ref=as_li_ss_tl?coliid=ING2Z4APQEXYY&colid=3GK8VN3SLL3IC&psc=1&ref_=lv_ov_lig_dp_it&linkCode=sl1&tag=jt1250champ-20&linkId=922100cafe43285cda9bdae684e33620&language=en_US>). I know people complain often that like dorm room lighting sucks but a lot of the work that I do, at least during the evening/night, is pretty computer heavy anyway. My roommate constantly borrowed the lamp until she went out and bought her own because she likes a much brighter workspace so I think it’s kind of person dependent. I wouldn’t say it’s a must have, but it’s useful.
 
