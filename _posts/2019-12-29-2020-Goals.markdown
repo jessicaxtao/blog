@@ -24,4 +24,4 @@ in order to help keep myself accountable.
 - Blog
 - Weight
 
-Go to <a href="https://jessicaxtao.github.io/blog/goals/">this link</a> to see my progress.
+Go to <a href="https://jessicaxtao.github.io/blog/goals.html/">this link</a> to see my progress.
