@@ -9,6 +9,7 @@ customjs:
 
 Tracker
 
+Goal 1:
 <div id="container" style="margin:20px, width: 100%, height:20px"></div>
 <div id="container1" style = "margin: 30px auto, width: 20%, height: 100px"></div>
 
