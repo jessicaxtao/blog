@@ -1,30 +1,46 @@
 ---
 layout: post
-title:  "20 Goals for 2020"
-date:   2019-12-17 12:07:00
+title:  "1000%"
+date:   2020-01-01 20:07:00
 categories: projects
 ---
 
-Just jumping on the bandwagon and this is in no particular order. I have specific
-numbers for things that I didn't necessarily want to share.
+I was inspired by this post: <a href="https://daringtolivefully.com/improve-your-life-1000"> Daring To Live Fully </a>
+but the basic idea is that we come up with a number of goals and it's kind of
+a game to reach "1000% improvement" by the end of the year based on predetermined
+criteria.
 
-1. Keep up with my schoolwork
-2. Be a good equipment manager for rugby
-3. Save money in the spring + summer
-4. Finish my playing card design
-5. Fill out the rest of my sketchbook
-6. Use data science to compete in March Madness/other competitions
-7. Complete 6 major programming projects for fun
-8. Run faster
-9. Hit new records in the gym
-10. Read 36 books
-11. Listen to 3 podcasts a week
-12. Keep up with the news
-13. Be able to qualify for the memory games
-14. Learn more card games and tricks
-15. Post 24 quality articles on this blog
-16. Get better at using Adobe Creative Cloud apps
-17. Average 15k steps a day
-18. Get Dvorak typing speed up to 100wpm
-19. Weight goal
-20. Make an art portfolio for myself
+Here are my 10 goals for the next year and I will be publicly keeping track
+in order to help keep myself accountable.
+
+Improve my rugby
+Playing 10 games is 20%
+100% attendance is 60%
+Self rating for improvement in skill 20%
+Designer/artist
+Completion of sketchbook is 20%
+Making an art portfolio is 60%
+Finishing playing cards 20%
+Learn data science
+4 competitions - 50%
+Learning - 50%
+Be a better programmer
+10 projects is 10% each
+Run/Gym
+8 minute mile is 30%
+580lb total bench/squat/deadlift is 30%
+Gym 156 times, Run 156 times is 40%
+Read
+Each book is 2.78% (for 36 books a year)
+Podcasts/News/Learn
+156 podcasts is 50%
+Files in the knowledge folder - 50 = 50%
+Memory
+Names and Faces 25% each
+Speed Numbers
+Speed Cards
+Poetry
+Blog
+Each quality post is worth 4.17% (for 24 posts a year)
+Weight
+7.7% for each lb (13 total)
