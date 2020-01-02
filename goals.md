@@ -9,7 +9,7 @@ customjs:
 Tracker
 
 Goal 1:
-<div id="container"></div>
+<div id="container" style="background-color:lightblue"></div>
 <div id="container1"></div>
 
 <script>
