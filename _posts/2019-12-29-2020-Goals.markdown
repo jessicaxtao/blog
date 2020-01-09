@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "1000%"
+date:   2020-01-01 20:07:00
+categories: projects
+---
+
+I was inspired by this post: <a href="https://daringtolivefully.com/improve-your-life-1000"> Daring To Live Fully </a>
+but the basic idea is that we come up with a number of goals and it's kind of
+a game to reach "1000% improvement" by the end of the year based on predetermined
+criteria.
+
+Here are my 10 goals for the next year and I will be publicly keeping track
+in order to help keep myself accountable.
+
+- Improve my rugby
+- Designer/artist
+- Learn data science
+- Be a better programmer
+- Run/Gym
+- Read
+- Podcasts/News/Learn
+- Memory
+- Blog
+- Weight
+
+Go to <a href="https://jessicaxtao.github.io/blog/goals.html">this link</a> to see my progress.

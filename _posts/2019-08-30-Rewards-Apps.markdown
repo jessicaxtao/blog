@@ -62,7 +62,7 @@ Note: They seem to be making some changes though so this information may not be 
 
 Affiliate Link: lymporun.page.link/ytv8S
 
-## Podcoins
+## Podcoins - no longer available
 
 For every 10 minutues of listening to a podcast, you can earn 1 Podcoin on this app. There are bonus podcasts that allow you to get .5 extra and if you have a streak for longer than 3 days (you maintain the streak by listening for at least ten minutes per day) then you will get another bonus Podcoin every 10 minutes. That means in total you can get 2.5 Podcoins every 10 minutes. I was told that the max per day was 6 hours but I seem to have been able to go past that.
 
