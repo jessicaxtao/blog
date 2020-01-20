@@ -6,7 +6,7 @@ categories: projects
 ---
 
 Here is the link to my guide to New York:
-<a href="https://www.notion.so/New-York-City-Guide-2d5bc45693344119ad05eb08291e0cf9"> New York Guide </a>
+<a href="https://www.notion.so/New-York-City-Guide-819ae2be8919411c92012d4b86f21b2f"> New York Guide </a>
 
 Upcoming edits will include more neighborhoods, a separate list of places to visit,
 more tips and tricks and a "8 hours in NYC" guide.
