@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weekly #1"
-date:   2020-09-11 10:00
+title:  "Weekly #3"
+date:   2020-09-25 10:00
 categories: weekly
 ---
 
