@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Weekly #4"
+date:   2020-10-02 10:00
+categories: weekly
+---
+Tools for programming that I rely on:
+
+- I've been using Visual Studio Code since quarantine started and so far it has been a joy to use. It is a great source code editor with support for many different languages and built in Git support. There's still a few cons - for bigger, complicated projects in Java or Python, I still use a dedicated IDE for that language. Usually Visual Studio Code is where I do web programming so it has replaced Atom or Bracket or Sublime Text or other editors like those. For me, the biggest complaint that I have is that sometimes the terminal is buggy.
+- Which leads me to the terminal(s) that I use. On Macs, I use iTerm2. Now that I have a desktop, I use Windows a lot more often for programming and the default command prompt and powershell both just suck. I have replaced it with Terminus. There are other good options out there as well but I started using Terminus and I love it. It's really pretty which is nice because the default Windows Powershell somehow chose the worst color combination possible. It makes it really easy to switch between terminals, useful if you have a server on one for example, or to switch between cmd and powershell but I'll be honest I don't know how to use cmd at all.
+- [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+- Learn to: use the terminal (or at least Git commands in the terminal), write Bash scripts (don't know why this isn't taught as much in school or at least I didn't learn it - so useful for testing code), take advantage of hardware (learn the basics of how RAM, CPU and GPU works to write code that runs faster like using matrices)
