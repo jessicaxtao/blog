@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Weekly #6"
+date:   2020-10-16 10:00
+categories: weekly
+---
+A really short post because I may or may not have forgotten this week:
+I really love the Polytopia game (available on iOS and Android). It's a game that I first played years ago but still genuinely enjoy using. If you're a fan of games like Civilization or other 4X games, this is a great smaller game to play. Each game is only about 30 turns and thus easy to enjoy in a shorter time frame.
